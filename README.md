@@ -1,0 +1,1 @@
+# Pandas_trick_to_automate_data_analysis
